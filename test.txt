@@ -1,9 +1,14 @@
 hello
 remote data
 for pull
+<<<<<<< HEAD
 local data
 local data
 local data
 local data
 local data
 local data
+remotedata
+remotedata
+remotedata
+remotedata
